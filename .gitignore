@@ -1,0 +1,20 @@
+# Visual Studio generated and user-specific files
+obj/
+bin/
+_ReSharper.*/
+*.user
+*.sln.docstates
+*.suo
+*.docstates
+*.vs10x
+*.vsp
+*.psess
+
+# NuGet repositories and packages
+/.nuget/
+/logs/
+packages/
+*.nupkg
+
+# NUnit generates xml output
+/reports/
